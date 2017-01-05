@@ -1,0 +1,12 @@
+{
+  "name": "cryptojs-demo",
+  "version": "1.0.0",
+  "description": "A demo for cryptojs",
+  "main": "server.js",
+  "keywords": [],
+  "author": "hero-digital",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^3.1.8"
+  }
+}
